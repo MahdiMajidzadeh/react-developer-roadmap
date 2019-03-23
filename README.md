@@ -1,7 +1,12 @@
 # React Developer Roadmap
 [README in Chinese](README-CN.md)
 
-> Roadmap to becoming a React developer in 2018:
+[README in Russian](README-RU.md)
+
+[README in Portuguese (Brazil)](README-PTBR.md)
+
+> Roadmap to becoming a React developer in 2019:
+
 Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a React developer. I made this chart as a tip for everyone who asks me, "What should I learn next as a React developer?"
 
 ## Disclaimer
@@ -27,7 +32,7 @@ Below you can find a chart demonstrating the paths that you can take and the lib
         * Learn mechanisms typical for JS (Hoisting, Event Bubbling, Prototyping)
         * Make some AJAX (XHR) calls
         * Learn new features (ECMA Script 6+)
-        * Additionally, get familiar with jQuery library
+        * Additionally, get familiar with the jQuery library
 2. General Development Skills
     1. Learn GIT, create a few repositories on GitHub, share your code with other people
     2. Know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
@@ -116,6 +121,7 @@ Below you can find a chart demonstrating the paths that you can take and the lib
     * [classnames](https://github.com/JedWatson/classnames)
     * [Numeral](http://numeraljs.com/)
     * [RxJS](http://reactivex.io/)
+    * [ImmutableJS](https://facebook.github.io/immutable-js/)
     * [Ramda](https://ramdajs.com/)
 12. Testing
     1. Unit Testing
@@ -161,9 +167,9 @@ If you think the roadmap can be improved, please do open a PR with any updates a
 
 ## Contribution
 
-The roadmap is built using [Draw.io](https://www.draw.io/). Project file can be found at `/src` directory. To modify it, open draw.io, click **Open Existing Diagram** and choose `xml` file with project. It will open the roadmap for you, update it, upload and update the images in readme and create a PR (export as png).
+The roadmap is built using [Draw.io](https://www.draw.io/). Project file can be found at `/src` directory. To modify it, open draw.io, click **Open Existing Diagram** and choose `xml` file with project. It will open the roadmap for you. Update it, upload and update the images in readme and create a PR (export as png).
 
-- Open pull request with improvements
+- Open a pull request with improvements
 - Discuss ideas in issues
 - Spread the word
 
